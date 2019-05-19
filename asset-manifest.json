@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ClickTap-Api/static/css/main.0226289b.chunk.css",
+    "main.js": "/ClickTap-Api/static/js/main.0f564626.chunk.js",
+    "main.js.map": "/ClickTap-Api/static/js/main.0f564626.chunk.js.map",
+    "runtime~main.js": "/ClickTap-Api/static/js/runtime~main.625cc8d6.js",
+    "runtime~main.js.map": "/ClickTap-Api/static/js/runtime~main.625cc8d6.js.map",
+    "static/css/2.266e55a5.chunk.css": "/ClickTap-Api/static/css/2.266e55a5.chunk.css",
+    "static/js/2.b094d706.chunk.js": "/ClickTap-Api/static/js/2.b094d706.chunk.js",
+    "static/js/2.b094d706.chunk.js.map": "/ClickTap-Api/static/js/2.b094d706.chunk.js.map",
+    "index.html": "/ClickTap-Api/index.html",
+    "precache-manifest.80877fe89b2bcd06f446a1f4566e9065.js": "/ClickTap-Api/precache-manifest.80877fe89b2bcd06f446a1f4566e9065.js",
+    "service-worker.js": "/ClickTap-Api/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/ClickTap-Api/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.0226289b.chunk.css.map": "/ClickTap-Api/static/css/main.0226289b.chunk.css.map"
+  }
+}
